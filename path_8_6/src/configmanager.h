@@ -42,6 +42,7 @@ class ConfigManager
 			CLASSIC_ATTACK_SPEED,
 			ALLOW_BLOCK_SPAWN,
 			REMOVE_WEAPON_AMMO,
+			STOP_ATTACK_AT_EXIT,
 			REMOVE_WEAPON_CHARGES,
 
 			LAST_BOOLEAN_CONFIG /* this must be the last one */
