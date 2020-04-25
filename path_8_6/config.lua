@@ -15,6 +15,7 @@ whiteSkullTime = 15 * 60 * 1000
 stairJumpExhaustion = 2 * 1000
 experienceByKillingPlayers = false
 expFromPlayersLevelRange = 75
+stopAttackingAtExit = "false"
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
