@@ -875,7 +875,6 @@ void Player::sendPing()
 		g_game.removeCreature(this, true);
 		g_game.addMagicEffect(getPosition(), CONST_ME_POFF);
 	}
-
 }
 
 Item* Player::getWriteItem(uint32_t& windowTextId, uint16_t& maxWriteLen)
